@@ -49,11 +49,11 @@ Actively seeking **Backend Developer Intern**, **Python Developer Intern**, or *
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poulsamiksha7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poulsamiksha7&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=poulsamiksha7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=poulsamiksha7&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 ---
