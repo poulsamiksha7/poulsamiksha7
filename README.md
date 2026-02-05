@@ -45,7 +45,7 @@ Actively seeking **Backend Developer Intern**, **Python Developer Intern**, or *
 - Showcased projects, skills, and learning journey  
 
 ---
-##GitHub Activity 
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poulsamiksha7&theme=tokyonight" />
