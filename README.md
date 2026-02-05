@@ -1,160 +1,84 @@
 <h1 align="center">Hi 👋, I'm Samiksha Poul</h1>
-<h3 align="center">Python Backend Developer (Aspiring) | MCA Student | Project-Based Learner</h3>
+<h3 align="center">Python Backend Developer (Aspiring) | MCA Student | Entry-Level Software Developer</h3>
 
 ---
 
 ## 👩‍💻 Professional Summary
 
-I am an MCA student focused on **Python Backend Development** with strong interest in building real-world applications, automation tools, and database-driven systems.
+MCA student with practical experience in **Python backend development**, **SQL databases**, and **web application development**. Experienced in building real-world projects, automation scripts, and database-driven applications.
 
-I believe in learning through practical implementation and have built **25+ Python and Web Development projects** to strengthen backend logic, problem-solving, and debugging skills.
+Demonstrated consistency through **25+ Python and web development projects**, strengthening skills in backend logic, debugging, and problem solving.
 
-I am currently seeking **Internship or Entry-Level Software Development opportunities** where I can contribute and grow as a backend developer.
-
----
-
-## 🚀 Technical Skills
-
-### 💻 Programming
-- Python  
-- Basic SQL (CRUD Operations)
-
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
-
-### 🗄 Database
-- MySQL  
-- Database Connectivity & Query Handling  
-
-### ⚙ Tools & Technologies
-- Git & GitHub  
-- XAMPP  
-- VS Code  
-- Debugging & Problem Solving  
+Actively seeking **Backend Developer Intern**, **Python Developer Intern**, or **Entry-Level Software Developer** roles.
 
 ---
 
-## 📌 Key Projects
+## 🧠 Core Skills
 
-### 🔹 21 Days 21 Python Projects
-- Developed automation tools and logic-based applications  
-- Implemented authentication systems, productivity utilities, and workflow tools  
-- Strengthened structured programming and debugging skills  
-
----
-
-### 🔹 E-Pharmacy Web Application
-- Built medicine ordering system with login authentication  
-- Implemented product and order workflow using SQL database  
-- Developed backend application flow and user interface integration  
+**Programming:** Python, SQL  
+**Backend Concepts:** CRUD operations, authentication workflows, server-side logic  
+**Web Technologies:** HTML, CSS, JavaScript, Bootstrap  
+**Databases:** MySQL, relational database design, query optimization (basic)  
+**Tools:** Git, GitHub, VS Code, XAMPP  
+**Practices:** Debugging, problem solving, clean code, version control  
 
 ---
 
-### 🔹 Portfolio Website
-- Designed responsive developer portfolio  
-- Showcases projects, skills, and development journey  
-- Implemented frontend structure and backend integration concepts  
+## 📌 Projects
+
+**21 Days – 21 Python Projects**  
+- Built automation scripts and productivity tools  
+- Implemented basic authentication and input validation  
+- Improved backend logic and debugging skills  
+
+**E-Pharmacy Web Application**  
+- Developed user authentication and medicine ordering system  
+- Implemented product and order management using MySQL  
+- Integrated backend logic with frontend UI  
+
+**MealsPoint (Food Ordering System)**  
+- Built dynamic menu and order processing workflow  
+- Strengthened understanding of server-side application flow  
+
+**Portfolio Website**  
+- Developed responsive personal portfolio  
+- Showcased projects, skills, and learning journey  
 
 ---
 
-### 🔹 MealsPoint Website 
-- Developed food ordering system with dynamic menu and order tracking  
-- Strengthened understanding of server-side workflow design  
-
----
-
-## 📊 GitHub Performance
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=poulsamiksha7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poulsamiksha7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poulsamiksha7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=poulsamiksha7&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Backend Development Concepts  
-- Data Structures & Algorithms  
-- Software Engineering Principles  
-- Real-World Application Architecture  
+- Backend Development with Python  
+- Data Structures and Algorithms  
+- Software Engineering Fundamentals  
+- Application Architecture and Design  
 
 ---
 
 ## 🎯 Career Objective
 
-To become a skilled Backend Developer who builds scalable, reliable, and efficient software systems.
+To work as a **Backend Developer** or **Software Engineer**, contributing to scalable and maintainable software systems while continuously improving technical skills.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Contact
 
-🔗 LinkedIn: https://linkedin.com/in/samiksha-poul  
-🌐 Portfolio: https://codewithsamiksha7.github.io  
-📧 Email: poulsamiksha7@gmail.com  
-
----
-
-⭐ *Consistency, structured learning, and real projects drive my growth as a developer.*- XAMPP
-- Problem Solving & Debugging
+LinkedIn: https://linkedin.com/in/samiksha-poul  
+Portfolio: https://codewithsamiksha7.github.io  
+Email: poulsamiksha7@gmail.com  
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **21 Days 21 Python Projects**  
-Built automation tools, productivity utilities, and logic-based applications.
-
-🔹 **100 Days 100 Projects Challenge**  
-Daily coding challenge to strengthen consistency and development skills.
-
-🔹 **Portfolio Website**  
-Personal developer portfolio showcasing projects and skills.
-
-🔹 **E-Pharmacy Website**  
-Web application with login system, product management, and database integration.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poulsamiksha7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poulsamiksha7&theme=tokyonight" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Backend Development
-- Data Structures & Algorithms
-- Software Engineering Concepts
-- Real-world Application Workflow Design
-
----
-
-## 🎯 Career Goal
-
-To become a skilled Backend Developer who builds reliable, scalable, and problem-solving software systems.
-
----
-
-## 🌐 Connect With Me
-
-💼 LinkedIn: https://linkedin.com/in/samiksha-poul  
-🌐 Portfolio: https://codewithsamiksha7.github.io  
-📧 Email: poulsamiksha7@gmail.com
-
----
-
-⭐ "Consistency beats perfection. I focus on learning, building, and growing every day."
+⭐ Consistency, hands-on projects, and continuous learning drive my growth as a developer.
