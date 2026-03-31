@@ -39,7 +39,6 @@ Actively seeking **Backend Developer Intern**, **Python Developer Intern**, or *
 - Strengthened understanding of server-side application flow and state management.
 
 **Portfolio Website** - Developed responsive personal portfolio to showcase projects and learning journey.  
-- [Live Demo](https://codewithsamiksha7.github.io)
 
 ---
 
@@ -69,7 +68,7 @@ To work as a **Backend Developer** or **Software Engineer**, contributing to sca
 ## 🤝 Contact
 
 - **LinkedIn:** [linkedin.com/in/samiksha-poul](https://linkedin.com/in/samiksha-poul)  
-- **Portfolio:** [codewithsamiksha7.github.io](https://codewithsamiksha7.github.io)  
+- **Portfolio:** [codewithsamiksha7.github.io](https://samiksha-poul-portfolio-two.vercel.app/)  
 - **Email:** poulsamiksha7@gmail.com  
 
 ---
