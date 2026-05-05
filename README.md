@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiksha Poul</h1>
-<h3 align="center">Python Backend Developer (Aspiring) | MCA Student | Entry-Level Software Developer</h3>
+<h3 align="center">Python Backend Developer | Flask · MySQL · REST APIs | MCA May 2026</h3>
 
 ---
 
@@ -31,9 +31,8 @@ Actively seeking **Backend Developer Intern**, **Python Developer Intern**, or *
 - Implemented "Dynamic Zoom" and cinematic transitions to enhance visual storytelling.  
 - Managed background video rendering using Python **Threading** and **MySQL** status tracking.
 
-**E-Pharmacy Web Application** - Developed user authentication and medicine ordering system.  
-- Implemented product and order management using MySQL.  
-- Integrated backend logic with frontend UI for a seamless user experience.
+**E-Pharmacy Web Application** - Full-stack PHP + MySQL pharmacy platform with authentication, 
+product catalog, cart, and order tracking. Solo-built end-to-end.
 
 **MealsPoint (Food Ordering System)** - Built dynamic menu and order processing workflow.  
 - Strengthened understanding of server-side application flow and state management.
@@ -52,16 +51,10 @@ Actively seeking **Backend Developer Intern**, **Python Developer Intern**, or *
 
 ## 📚 Currently Learning
 
-- Advanced Backend Development (Python/Django)  
-- Data Structures and Algorithms (DSA)  
-- Application Architecture & System Design  
-- Software Engineering Fundamentals  
+- Advanced Flask patterns (Blueprints, application factory, middleware)
+- System Design fundamentals
+- Data Structures & Algorithms (active on LeetCode) 
 
----
-
-## 🎯 Career Objective
-
-To work as a **Backend Developer** or **Software Engineer**, contributing to scalable and maintainable software systems while continuously improving technical skills to meet industry standards.
 
 ---
 
