@@ -61,7 +61,7 @@ product catalog, cart, and order tracking. Solo-built end-to-end.
 ## 🤝 Contact
 
 - **LinkedIn:** [linkedin.com/in/samiksha-poul](https://linkedin.com/in/samiksha-poul)  
-- **Portfolio:** [codewithsamiksha7.github.io](https://samiksha-poul-portfolio-two.vercel.app/)  
+- **Portfolio:** [samiksha-poul-portfolio](https://samiksha-poul-portfolio-two.vercel.app/)  
 - **Email:** poulsamiksha7@gmail.com  
 
 ---
